@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/storage/2/Tom/Documents/Studie/Create/vakken%201415/stage/datacollection/cellbots/android/java/dataLogger/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Logger</string>
+    <string name="start_rec_time">00:00:00</string>
+</resources>
